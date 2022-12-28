@@ -2,3 +2,9 @@ fileignoreconfig:
 - filename: Simple+Linear+Regression+in+Python.ipynb
   checksum: a9484820eb8f1e3fb14d8f5483e46bf7864c410800f9feab8772c2e23bb9cbad
 version: ""
+
+
+fileignoreconfig:
+- filename: file.ipynb
+  checksum: d701c012b53279e0f4d26ebe154b7399f8dbc2e7f2581131e13e95d368e6df6b
+version: ""
